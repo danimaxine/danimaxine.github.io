@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/danimaxine
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://danimaxine.github.io
+  * I am danimaxine (https://keybase.io/danimaxine) on keybase.
+  * I have a public key ASCwodO_Ifc19mPYIIcqFuiUmqZtojbWybXaBISbq0IakAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b0a1d3bf21f735f663d820872a16e8949aa66da236d6c9b5da04849bab421a900a",
+      "host": "keybase.io",
+      "kid": "0120b0a1d3bf21f735f663d820872a16e8949aa66da236d6c9b5da04849bab421a900a",
+      "uid": "f953767f831e6ab780c1bb9c9d4f1019",
+      "username": "danimaxine"
+    },
+    "merkle_root": {
+      "ctime": 1680669784,
+      "hash": "af180d167faa5bfdf4ef0f89acbf065951829d6231bcc914b6dabe1d8dc99fde37f48648c2cb6f1d82813d9aba633fbb5eba84438c7b063450ae4747e9e98d0a",
+      "hash_meta": "24c69814a305f9abfb557392aabd23b41b186adf07f97d172e006178748ee0f3",
+      "seqno": 24294103
+    },
+    "service": {
+      "entropy": "atIkQ9MxgHbh+5DlslEHD4fN",
+      "hostname": "danimaxine.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1680669807,
+  "expire_in": 504576000,
+  "prev": "5b5a8bbe7fcee937ac2781d501ae721551ec60fb92198a610393df53b7f3ece9",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgsKHTvyH3NfZj2CCHKhbolJqmbaI21sm12gSEm6tCGpAKp3BheWxvYWTESpcCBcQgW1qLvn/O6TesJ4HVAa5yFVHsYPuSGYphA5PfU7fz7OnEIMsBil+gPqgSinzKeeX1bKfcnqvI4yrXZXou2P5hENaWAgHCo3NpZ8RAyb/yhnrvTXly3DfhFTW/IVwZo57jK1XAAMLCXhr/Kgu8uDzdti40t3N9RlnyUolW4GQawOjUJFSXuwzlt5BPDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIP6Ja10f0WywyBsyyWZ6VB4/tVI7PlBNW6qSI2R3UBgSo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/danimaxine
+
+==================================================================
